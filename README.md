@@ -14,3 +14,15 @@ log in with your linked in account and then go to https://www.linkedin.com/secur
  
 ![](/images/13.png)
 
+## Step 2
+Fill out the form to register a new application , impotrant fields must be filled .
+
+Default Scope: select the permissions that your application needs to retrieve data from linkedIn API
+OAuth 2.0 Redirect URLs: enter a url that your application will redirect to it after end of authentication
+
+finally , read LinkedIn API Terms of use and check in  agree and then click  on ‘Add Application’ .
+
+![](/images/14.png)
+
+
+
