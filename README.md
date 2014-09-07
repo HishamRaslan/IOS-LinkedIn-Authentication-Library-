@@ -24,5 +24,23 @@ finally , read LinkedIn API Terms of use and check in  agree and then click  on 
 
 ![](/images/14.png)
 
+## Step 3
+Now you have registered your application on LinkedIn API , we will use the API Key and Secret Key in next steps .
+![](/images/16.png)
+
+2-Download the library and drag the folder named ...... to your project ,then open the config.h and set the values of the parameter in it 
+![](/images/17.png)
+
+3-create a button in your app that will make user authentication the action of the button will be like this 
+![](/images/18.png)
+After user authentication you will have the user acecess token to use in your application or there will be an error which will be printed in console
+
+
+**Example App**
+===================================
+A small example application can be found here: https://github.com/jeyben/IOSLinkedInAPI/tree/master/Example/IOSLinkedInAPI-Podexample/IOSLinkedInAPI-Podexample
+
+
+
 
 
