@@ -2,8 +2,7 @@
 ===================================
 A Simple and easy to use library that helps you make user authentication in linkedin using Auth2.0 ,and retrieve the access toke which is required to retrieve any data from linkedin API.
 
-![](/images/12.png)
-![](/images/11.png)
+![](/images/88.png)
 
 **How to use this library**
 ===================================
@@ -42,7 +41,9 @@ After user authentication you will have the user acecess token to use in your ap
 
 **Example App**
 ===================================
-A small example application can be found here: https://github.com/jeyben/IOSLinkedInAPI/tree/master/Example/IOSLinkedInAPI-Podexample/IOSLinkedInAPI-Podexample
+A small example application can be found here:
+https://github.com/HishamRaslan/IOS-LinkedIn-Authentication-Library-/tree/master/Library%20Demo
+
 
 
 
