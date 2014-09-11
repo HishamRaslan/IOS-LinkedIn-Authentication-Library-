@@ -35,7 +35,7 @@ Now you have registered your application on LinkedIn API , we will use the API K
 
 3-create a button in your app that will make user authentication the action of the button will be like this .
 
-![](/images/21.png)
+![](/images/99.png)
 
 After user authentication you will have the user acecess token to use in your application or there will be an error which will be printed in console
 
