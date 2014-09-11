@@ -28,7 +28,7 @@ finally , read LinkedIn API Terms of use and check in  agree and then click  on 
 Now you have registered your application on LinkedIn API , we will use the API Key and Secret Key in next steps .
 ![](/images/16.png)
 
-2-Download the library and drag the folder named ...... to your project ,then open the config.h and set the values of the parameter in it 
+2-Download the library and drag the folder named LinkedIn Authentication that exist in  folder library Demo/lib to your project ,then open the config.h and set the values of the parameter in it 
 ![](/images/17.png)
 
 3-create a button in your app that will make user authentication the action of the button will be like this 
