@@ -1,0 +1,6 @@
+#define response_type @"code"
+#define client_id @"773v8weasgmlfm"
+#define scope @"r_network"
+#define state @"DCEEFWF45453sdffef424"
+#define redirect_uri @"https://www.google.com.eg/"
+#define client_secret @"CqH3MYC34IPkE6GP"
